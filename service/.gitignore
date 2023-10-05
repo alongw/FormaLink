@@ -1,6 +1,9 @@
 # config files
 config.yml
 
+# web
+service/public
+
 
 # Logs
 logs
